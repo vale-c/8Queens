@@ -1,0 +1,15 @@
+.main {
+  display: flex;
+  flex-wrap: wrap;
+  background: white;
+  border: 10px solid red;
+  width: 800px;
+  height: 800px;
+  margin: 100px auto;
+}
+
+.inner {
+  background: #7A7A7A;
+  width: 100px;
+  height: 100px;
+}
